@@ -13,7 +13,7 @@
 - 📱 Building mobile apps with **Flutter**
 - 🌐 Developing dynamic web apps using **React, Vue, Node.js, Express**
 - 🗃️ Skilled in **MongoDB**, **SQL**, and **.NET MVC**
-- 🐳 Deploying with **Jenkins Pipelines**,
+- 🔧 Deploying with **Jenkins Pipelines**,
 - 🤖 Researching: *Agentic AI's impact on Software Engineering*
 - 🧠 Passionate about merging **AI + DevOps + Scalable Code**
 
@@ -23,12 +23,12 @@
 
 #### 🚀 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,dotnet,mongodb,mysql,sql,html,css,js,ts,c,java,python" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,dotnet,mongodb,mysql,sql,html,css,js,c,java,python" />
 </p>
 
 #### 🧰 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=jenkins,postman,vscode,git,github,ps" />
+  <img src="https://skillicons.dev/icons?i=jenkins,postman,vscode,git,github,visualstudio" />
 </p>
 
 ---
@@ -58,7 +58,7 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-saad-2a74b9255)
 - 🎨 [Behance](https://www.behance.net/muhammadsaad372)
 - 🌐 Portfolio: Coming soon
-- 📬 Email: saadiqbal@gmail.com — _(replace this too)_
+- 📬 Email: saadiqbal@gmail.com
 
 ---
 
