@@ -11,12 +11,10 @@
 
 - 🚀 Turning ideas into **scalable digital solutions**
 - 📱 Building mobile apps with **Flutter**
-- 🌐 Developing dynamic web apps using **React, Node.js, Express**
+- 🌐 Developing dynamic web apps using **React, Vue, Node.js, Express**
 - 🗃️ Skilled in **MongoDB**, **SQL**, and **.NET MVC**
-- 🐳 Deploying with **Docker**, **Jenkins Pipelines**, **Ansible**, and **Terraform**
-- ☁️ Provisioning **Azure VMs** with automation
+- 🐳 Deploying with **Jenkins Pipelines**,
 - 🤖 Researching: *Agentic AI's impact on Software Engineering*
-- 💼 Preparing to launch my own **freelance development business**
 - 🧠 Passionate about merging **AI + DevOps + Scalable Code**
 
 ---
@@ -30,7 +28,7 @@
 
 #### 🧰 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,jenkins,terraform,ansible,postman,vscode,git,github,azure,figma,ps" />
+  <img src="https://skillicons.dev/icons?i=jenkins,postman,vscode,git,github,ps" />
 </p>
 
 ---
@@ -50,17 +48,17 @@
 
 ### 🧠 Research & Writing
 
-- 📚 Final year project: _**"The Advancement and Development of Software Engineering through the Impact of Artificial Intelligence and Agentic AI"**_
+- 📚 Final year project: _**"Uniconnect | One Stop Solution for Students"**_
 - 🔍 Exploring how AI agents can automate and augment development workflows
 
 ---
 
 ### 🌐 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/muhammadsaad) — _(replace with real link)_
-- 🎨 [Behance](https://www.behance.net/muhammadsaad) — _(work in progress)_
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-saad-2a74b9255)
+- 🎨 [Behance](https://www.behance.net/muhammadsaad372)
 - 🌐 Portfolio: Coming soon
-- 📬 Email: your.email@example.com — _(replace this too)_
+- 📬 Email: saadiqbal@gmail.com — _(replace this too)_
 
 ---
 
