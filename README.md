@@ -36,13 +36,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saadiqbal603&show_icons=true&theme=radical" width="400" />
   <img src="https://streak-stats.demolab.com/?user=saadiqbal603&theme=radical" width="400" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadiqbal603&layout=compact&theme=radical" width="400" />
-</p>
 
 ---
 
