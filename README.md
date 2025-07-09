@@ -51,9 +51,9 @@
 
 ### 🌐 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-saad-2a74b9255)
-- 🎨 [Behance](https://www.behance.net/muhammadsaad372)
-- 🌐 [Portfolio](https://muhammad-saads-projects-39007950.vercel.app/)
+- 💼 <a href="https://www.linkedin.com/in/muhammad-saad-2a74b9255" target="_blank" rel="noopener noreferrer">LinkedIn</a>  
+- 🎨 <a href="https://www.behance.net/muhammadsaad372" target="_blank" rel="noopener noreferrer">Behance</a>  
+- 🌐 <a href="https://muhammad-saads-projects-39007950.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio</a>  
 - 📬 Email: saadiqbal@gmail.com
 
 ---
