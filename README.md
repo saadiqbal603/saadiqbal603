@@ -53,7 +53,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-saad-2a74b9255)
 - 🎨 [Behance](https://www.behance.net/muhammadsaad372)
-- 🌐 Portfolio: Coming soon
+- 🌐 [Portfolio](https://muhammad-saads-projects-39007950.vercel.app/)
 - 📬 Email: saadiqbal@gmail.com
 
 ---
